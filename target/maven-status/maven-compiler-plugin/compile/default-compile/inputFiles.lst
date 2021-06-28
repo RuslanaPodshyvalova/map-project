@@ -1,0 +1,7 @@
+/media/lana/Data/lux/map/src/main/java/com/example/map/repository/LocationRepository.java
+/media/lana/Data/lux/map/src/main/java/com/example/map/model/Location.java
+/media/lana/Data/lux/map/src/main/java/com/example/map/model/City.java
+/media/lana/Data/lux/map/src/main/java/com/example/map/controller/LocationController.java
+/media/lana/Data/lux/map/src/main/java/com/example/map/repository/CityRepository.java
+/media/lana/Data/lux/map/src/main/java/com/example/map/controller/CityController.java
+/media/lana/Data/lux/map/src/main/java/com/example/map/MapApplication.java
